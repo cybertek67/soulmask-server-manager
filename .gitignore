@@ -1,0 +1,25 @@
+# Never publish server saves, player databases, or local world installations.
+World-*/
+ManagerBackups/
+SteamCMD/
+
+# Runtime-generated preferences and temporary launch files.
+ManagerAudioSettings.json
+ManagerMap.json
+ManagerPreferences.json
+ManagerLaunchInfo.json
+Manager-Launch-*.bat
+
+# Credentials and local configuration.
+.env
+.secrets/
+*apikey*
+*secret*
+*.key
+
+# Common OS/editor files.
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
