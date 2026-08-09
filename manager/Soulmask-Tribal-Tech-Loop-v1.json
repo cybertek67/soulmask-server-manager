@@ -1,0 +1,17 @@
+{
+  "provider": "MiniMax",
+  "model": "music-2.6",
+  "instrumental": true,
+  "traceId": "06c825b4a2ac355b5784b729fdc96943",
+  "title": "Soulmask Tribal Tech Loop",
+  "prompt": "Original instrumental background loop for a Soulmask dedicated server manager. Catchy primal tribal drum groove with deep skin drums, low toms, hand percussion, wooden clacks, shakers, and restrained ancient-desert atmosphere, fused subtly with futuristic low pulses. Steady confident adventure rhythm around 104 BPM, immersive and energizing but comfortable for long repetition. Strong memorable percussion motif, gradual small variations, balanced dynamics, clean low end. Loop-friendly beginning and ending. No vocals, no chanting, no spoken words, no copyrighted melody, no giant cinematic booms, no sudden impacts, no harsh high frequencies, no long quiet intro, no dramatic ending.",
+  "durationSeconds": 127.512,
+  "processing": {
+    "targetLoudness": "-21 LUFS",
+    "truePeakLimit": "-2 dBTP",
+    "sampleRate": 44100,
+    "bitrate": 192000,
+    "defaultManagerVolumePercent": 18
+  }
+}
+
